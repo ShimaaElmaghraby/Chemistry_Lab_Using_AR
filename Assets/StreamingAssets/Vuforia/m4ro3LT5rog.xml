@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="2MgO_2Na_H2" size="5.000000 1.505886" />
+    <ImageTarget name="Hg_O2" size="5.000000 1.592749" />
+    <ImageTarget name="ZnSO4_Cu" size="5.000000 1.683362" />
+    <ImageTarget name="Mg-OH-2_H2" size="5.000000 1.658707" />
+    <ImageTarget name="-NH4-2Cr2O7" size="5.000000 3.379475" />
+    <ImageTarget name="Mg" size="5.000000 3.495123" />
+    <ImageTarget name="CuSO4" size="5.000000 3.398382" />
+    <ImageTarget name="2HgO" size="5.000000 3.659124" />
+    <ImageTarget name="Zn" size="5.000000 3.366718" />
+    <ImageTarget name="2NaOH" size="5.000000 3.195809" />
+    <ImageTarget name="2Mg" size="5.000000 3.182097" />
+    <ImageTarget name="2H2O" size="5.000000 3.290236" />
+    <ImageTarget name="N2_Cr2O3_4H2O" size="5.000000 1.612491" />
+    <ImageTarget name="heat" size="5.000000 5.010684" />
+  </Tracking>
+</QCARConfig>
